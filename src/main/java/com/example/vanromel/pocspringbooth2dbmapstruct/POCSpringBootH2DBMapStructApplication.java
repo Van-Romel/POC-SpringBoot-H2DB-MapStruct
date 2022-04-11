@@ -8,6 +8,7 @@ public class POCSpringBootH2DBMapStructApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(POCSpringBootH2DBMapStructApplication.class, args);
+        System.out.println("Hello World!");
     }
 
 }
